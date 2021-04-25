@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6520cb7-2bfa-43b9-894e-106984f92d5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/maxElemnt.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/test.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ArrayPairs.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/dynamicPrograming/coinChange.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/pairSocks.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/findRoomCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/findRoomCount.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +18,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/test.scala">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/findRoomCount.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+            <state relative-caret-position="435">
+              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/pairSocks.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ArrayPairs.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="498">
+              <caret line="82" column="7" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/coinChange.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="68" column="38" lean-forward="true" selection-start-line="68" selection-start-column="38" selection-end-line="68" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/collection/SeqLike.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2145">
+              <caret line="156" column="6" selection-start-line="156" selection-start-column="6" selection-end-line="156" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/higherOrder.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -36,7 +92,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>Keys =&gt;</find>
       <find>println</find>
+      <find>,1,</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -56,6 +114,11 @@
         <option value="$PROJECT_DIR$/src/main/scala/higherOrder.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/maxElemnt.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/findRoomCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/pairSocks.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ArrayPairs.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/dynamicPrograming/coinChange.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala" />
       </list>
     </option>
   </component>
@@ -87,8 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,10 +175,20 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyScala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyScala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamicPrograming" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,37 +208,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="ProblemSolvingCertificate" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolvingCertificate" />
+  <component name="RunManager" selected="Application.equalDistribution">
+    <configuration name="ArrayPairs" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayPairs" />
       <module name="MyScala" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="higherOrder" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="higherOrder" />
+    <configuration name="coinChange" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicPrograming.coinChange" />
       <module name="MyScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamicPrograming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maxElemnt" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="maxElemnt" />
+    <configuration name="equalDistribution" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicPrograming.equalDistribution" />
       <module name="MyScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamicPrograming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="repeatingString" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="repeatingString" />
+    <configuration name="pairSocks" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="pairSocks" />
       <module name="MyScala" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="findRoomCount" />
       <module name="MyScala" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -175,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.equalDistribution" />
+        <item itemvalue="Application.coinChange" />
+        <item itemvalue="Application.ArrayPairs" />
+        <item itemvalue="Application.pairSocks" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.maxElemnt" />
-        <item itemvalue="Application.higherOrder" />
-        <item itemvalue="Application.repeatingString" />
-        <item itemvalue="Application.ProblemSolvingCertificate" />
       </list>
     </recent_temporary>
   </component>
@@ -218,22 +301,139 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4650838" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48324022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.551676" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3282123" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3547486" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.44134077" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.41340783" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" weight="0.3297568" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="DB Browser" order="2" weight="0.3297568" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37430167" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3547486" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.44134077" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/ArrayPairs.scala</url>
+          <line>63</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/collection/mutable/ArrayBuffer.scala">
@@ -295,13 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/higherOrder.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/maxElemnt.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -309,10 +502,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/test.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/findRoomCount.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        <state relative-caret-position="435">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/pairSocks.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/collection/SeqLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2145">
+          <caret line="156" column="6" selection-start-line="156" selection-start-column="6" selection-end-line="156" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/higherOrder.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ArrayPairs.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="82" column="7" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/coinChange.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="68" column="38" lean-forward="true" selection-start-line="68" selection-start-column="38" selection-end-line="68" selection-end-column="38" />
         </state>
       </provider>
     </entry>
