@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6520cb7-2bfa-43b9-894e-106984f92d5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/dynamicPrograming/kingdomDivision.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lexicalOrder.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/MiniMaxSum.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PlusMinus.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Staircase.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/TimeConverter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/dynamicPrograming/diagonalDifference.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MyScala.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,65 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/findRoomCount.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/pairSocks.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/ArrayPairs.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="82" column="7" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/coinChange.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/kingdomDivision.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/lexicalOrder.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/TimeConverter.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="180">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -120,6 +68,13 @@
         <option value="$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/dynamicPrograming/kingdomDivision.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/lexicalOrder.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/dynamicPrograming/diagonalDifference.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/PlusMinus.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Staircase.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/MiniMaxSum.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TImeConvert.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TimeConverter.scala" />
       </list>
     </option>
   </component>
@@ -156,6 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,7 +141,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -206,16 +161,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.lexicalOrder">
-    <configuration name="ArrayPairs" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayPairs" />
+  <component name="RunManager" selected="Application.TimeConverter">
+    <configuration name="MiniMaxSum" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MiniMaxSum" />
       <module name="MyScala" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="coinChange" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="dynamicPrograming.coinChange" />
+    <configuration name="PlusMinus" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="PlusMinus" />
+      <module name="MyScala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Staircase" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Staircase" />
+      <module name="MyScala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeConverter" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TimeConverter" />
+      <module name="MyScala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="diagonalDifference" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicPrograming.diagonalDifference" />
       <module name="MyScala" />
       <extension name="coverage">
         <pattern>
@@ -223,50 +199,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="equalDistribution" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="dynamicPrograming.equalDistribution" />
-      <module name="MyScala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dynamicPrograming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="kingdomDivision" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="dynamicPrograming.kingdomDivision" />
-      <module name="MyScala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dynamicPrograming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lexicalOrder" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lexicalOrder" />
-      <module name="MyScala" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lexicalOrder" />
-        <item itemvalue="Application.kingdomDivision" />
-        <item itemvalue="Application.equalDistribution" />
-        <item itemvalue="Application.coinChange" />
-        <item itemvalue="Application.ArrayPairs" />
+        <item itemvalue="Application.TimeConverter" />
+        <item itemvalue="Application.MiniMaxSum" />
+        <item itemvalue="Application.Staircase" />
+        <item itemvalue="Application.PlusMinus" />
+        <item itemvalue="Application.diagonalDifference" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +240,7 @@
     <frame x="0" y="25" width="1440" height="814" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" weight="0.3297568" />
       <window_info id="Designer" order="3" />
@@ -550,6 +493,30 @@
           <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/MiniMaxSum.scala</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/MiniMaxSum.scala</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/MiniMaxSum.scala</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/MiniMaxSum.scala</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -613,13 +580,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/pairSocks.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/collection/SeqLike.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2145">
@@ -631,27 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/ArrayPairs.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="82" column="7" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/coinChange.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -669,6 +608,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/pairSocks.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ArrayPairs.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="7" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/coinChange.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/equalDistribution.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/kingdomDivision.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -678,8 +645,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/lexicalOrder.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state>
+          <caret column="19" selection-start-column="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/dynamicPrograming/diagonalDifference.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="27" selection-start-line="13" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/PlusMinus.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scriptFile.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TimeConvert.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-column="19" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/MiniMaxSum.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Staircase.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TimeConverter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
